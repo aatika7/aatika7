@@ -23,7 +23,7 @@
 
 <h1>Services</h1>
 <hr>
-
+![logo](https://github.com/aatika7/aatika7/blob/main/Interface%20Design.gif)
 <h4>I offer a range of services tailored to the needs of entrepreneurs and small businesses, including:
 
 </h4>
