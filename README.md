@@ -8,18 +8,34 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatika7&label=Profile%20views&color=0e75b6&style=flat" alt="aatika7" /> </p>
 
 <h1>A lil'Git Abot me</h1>
-  <hr><hr>
-
-  <h3>Self-taught and passionate C# Developer with hands-on experience in creating efficient and scalable web applications using the .NET framework and C#. Skilled in object-oriented programming, with a strong commitment to delivering clean, maintainable code</h3>
+  <hr>
+<h3>Self-taught and passionate C# Developer with hands-on experience creating efficient and scalable web applications using the .NET framework and C#. Skilled in object-oriented programming, with a strong commitment to delivering clean, maintainable code</h3>
 
   <ul><li>C#</li>
   <li>HTML, CSS, JavaScript</li>
   
   <h3>Feel free to check out my projects and connect with me to discuss software development!</h3>
 
- 📫 How to reach me **aatikaalia5017@gmail.com**
+ <h1>Description</h1>
+<hr>
+<h4> I'm excited to combine my skills to help others while also monetizing my knowledge. My mission is to help startups and small businesses succeed by providing them with high-quality software engineering solutions and problem-solving expertise.</h4>
 
-- ⚡ Fun fact **I love anime.😉**
+
+<h1>Services</h1>
+<hr>
+
+<h4>I offer a range of services tailored to the needs of entrepreneurs and small businesses, including:
+
+</h4>
+
+<ul><li><h>Software development:</h3> From web and mobile applications to custom software solutions, I can help you bring your ideas to life.</li>
+<li><h3>Technical consulting:</h3> I can provide technical guidance and expertise to help you make informed decisions about your business.</li>
+</ul>
+
+<h1>Contact Me</h1>
+<hr>
+<h4>Ready to take your business to the next level? Let's work together! Contact me at [insert email address] to discuss your project and how I can help</h4>
+<h4>Thank you for considering my services, and I look forward to hearing from you soon!</h4>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
