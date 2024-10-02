@@ -18,7 +18,7 @@
 
  <h1>Description</h1>
 <hr>
-<h4> I'm excited to combine my skills to help others while also monetizing my knowledge. My mission is to help startups and small businesses succeed by providing them with high-quality software engineering solutions and problem-solving expertise.</h4>
+<h4> I'm excited to combine my skills to help others while monetizing my knowledge. My mission is to help startups and small businesses succeed by providing them with high-quality software engineering solutions and problem-solving expertise.</h4>
 
 
 <h1>Services</h1>
@@ -28,7 +28,7 @@
 
 </h4>
 
-<ul><li><h>Software development:</h3> From web and mobile applications to custom software solutions, I can help you bring your ideas to life.</li>
+<ul><li><h3>Software development:</h3> From web and mobile applications to custom software solutions, I can help you bring your ideas to life.</li>
 <li><h3>Technical consulting:</h3> I can provide technical guidance and expertise to help you make informed decisions about your business.</li>
 </ul>
 
