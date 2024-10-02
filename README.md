@@ -7,9 +7,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatika7&label=Profile%20views&color=0e75b6&style=flat" alt="aatika7" /> </p>
 
-- 🌱 I’m currently learning **C# and it's framework**
+<h1>A lil'Git Abot me</h1>
+  <hr><hr>
 
-- 📫 How to reach me **aatikaalia5017@gmail.com**
+  <h3>Self-taught and passionate C# Developer with hands-on experience in creating efficient and scalable web applications using the .NET framework and C#. Skilled in object-oriented programming, with a strong commitment to delivering clean, maintainable code</h3>
+
+  <ul><li>C#</li>
+  <li>HTML, CSS, JavaScript</li>
+  
+  <h3>Feel free to check out my projects and connect with me to discuss software development!</h3>
+
+ 📫 How to reach me **aatikaalia5017@gmail.com**
 
 - ⚡ Fun fact **I love anime.😉**
 
