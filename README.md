@@ -1,4 +1,4 @@
-![logo](https://github.com/aatika7/aatika7)
+![logo]([https://github.com/aatika7/aatika7](https://github.com/aatika7/aatika7))
 
    
    <center><h1>Hi 👋, I'm Aatika Alia</h1</center>
