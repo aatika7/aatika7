@@ -1,4 +1,5 @@
-![logo](https://github.com/aatika7/aatika7/blob/main/AAtika%20alia.png)
+![logo](https://github.com/aatika7/aatika7)
+
    
    <center><h1>Hi 👋, I'm Aatika Alia</h1</center>
 <h3 align="center">A passionate software developer from Pakistan.</h3>
