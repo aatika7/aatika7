@@ -3,7 +3,7 @@
    <center><h1>Hi 👋, I'm Aatika Alia</h1</center>
 <h3 align="center">A passionate software developer from Pakistan.</h3>
 
-![logo](https://github.com/aatika7/aatika7/blob/main/Interface%20Design.gif)
+   ![logo](https://github.com/aatika7/aatika7/blob/main/Interface%20Design.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aatika7&label=Profile%20views&color=0e75b6&style=flat" alt="aatika7" /> </p>
 
