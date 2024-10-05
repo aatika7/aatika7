@@ -31,8 +31,9 @@
 
 </h4>
 
-<ul><li><h3>Software development:</h3> From web and mobile applications to custom software solutions, I can help you bring your ideas to life.</li>
-<li><h3>Technical consulting:</h3> I can provide technical guidance and expertise to help you make informed decisions about your business.</li>
+<ul><li><h3>Software Development:</h3> From mobile applications to custom software solutions, I can help you bring your ideas to life.</li>
+   <li><h3>Front End Development:</h3>I can design modern websites.</li>
+<li><h3>Technical Consulting:</h3> I can provide technical guidance and expertise to help you make informed decisions about your business.</li>
 </ul>
 
 <h1>Contact Me</h1>
