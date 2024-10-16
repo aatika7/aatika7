@@ -9,7 +9,7 @@
 
 <h1>A lil'Git Abot me</h1>
   <hr>
-<h3>Self-taught and passionate C# Developer with hands-on experience. Skilled in object-oriented programming, with a strong commitment to delivering clean, maintainable code</h3>
+<h3>Self-taught and passionate C# Developer with hands-on experience creating efficient and scalable web applications using the .NET framework and C#. Skilled in object-oriented programming and strongly committed to delivering clean, maintainable code. </h3>
 
  <h3>"I've improved my skills as a front-end web developer. I've learned HTML, CSS, and JavaScript to design websites. Bringing Ideas to Life from Concept to Deployment, Creating Seamless User Experiences, and Specializing in Front-End Integration".</h3>
 
