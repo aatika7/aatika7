@@ -32,14 +32,14 @@
 
 </h4>
 
-<ul><li><h3>Software Development:</h3> From mobile applications to custom software solutions, I can help you bring your ideas to life.</li>
+<ul><li><h3>Software Development:</h3> From web applications to custom software solutions, I can help you bring your ideas to life.</li>
    <li><h3>Front End Development:</h3>I can design modern websites.</li>
 <li><h3>Technical Consulting:</h3> I can provide technical guidance and expertise to help you make informed decisions about your business.</li>
 </ul>
 
 <h1>Contact Me</h1>
 <hr>
-<h4>Ready to take your business to the next level? Let's work together! Contact me at [insert email address] to discuss your project and how I can help</h4>
+<h4>Ready to take your business to the next level? Let's work together! Contact me at aatikaalia5017@gmail.com to discuss your project and how I can help</h4>
 <h4>Thank you for considering my services, and I look forward to hearing from you soon!</h4>
 
 <h3 align="left">Connect with me:</h3>
@@ -50,10 +50,26 @@
 <a href="https://www.behance.net/aatika alia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aatika alia" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
+<h3 align="left">Languages:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
+   <a href= target="_blank" rel="noreferrer">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> 
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+   <h3 align="left">Frameworks:</h3>
+    <a href="https:" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+   <a href="https:" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/master/.github/logo-mark.svg" alt="Tailwind CSS" width="30" height="30"> </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30">
+   <h3 align="left">Tools:</h3>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30">
+
+<h3 align="left">Design Softwares:</h3>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="30" height="30">
+   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="GIMP" width="30" height="30">
+
 
