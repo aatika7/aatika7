@@ -39,7 +39,7 @@
 
 <h1>Contact Me</h1>
 <hr>
-<h4>Ready to take your business to the next level? Let's work together! Contact me at aatikaalia5017@gmail.com to discuss your project and how I can help</h4>
+<h4>Ready to take your business to the next level? Let's work together! Contact me at xeonvalley@gmail.com to discuss your project and how I can help</h4>
 <h4>Thank you for considering my services, and I look forward to hearing from you soon!</h4>
 
 
@@ -59,30 +59,24 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
-   <h3 align="left">Libraries:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-   
-   
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"> </a>
-   </p>
-<h3 align="left">Tools:</h3>
-   <p align="left"> <a href="https:" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="30" height="30"> </a> 
-   <a href= target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="30" height="30"> </a>
-      </p>
-   <h3 align="left">Design Softwares:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
- <a href="https:" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/inkscape/inkscape-original.svg" alt="Inkscape" width="40" height="40"> </a>
-    <a href="https:" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gimp/gimp-original.svg" alt="GIMP" width="40" height="40">
-</a>
- </p>
+<h3>Libraries:</h3>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/>
+</p>
+<h3>Editor Tools:</h3>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="40"/>
+</p>
 
+<h3>Design Software:</h3>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.simpleicons.org/gimp/5C5543" width="40" style="margin-right:10px;"/>
+  <img src="https://cdn.simpleicons.org/inkscape/000000" width="40"/>
+</p>
 
       
  
