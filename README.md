@@ -66,15 +66,23 @@
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/>
 </p>
 <h3>Editor Tools:</h3>
-<p align="left">
+<p>
+  <!-- VS Code -->
   <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" style="margin-right:10px;"/>
+  
+  <!-- Visual Studio -->
   <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="40"/>
 </p>
 
 <h3>Design Software:</h3>
-<p align="left">
+<p>
+  <!-- Photoshop -->
   <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" style="margin-right:10px;"/>
+
+  <!-- GIMP -->
   <img src="https://cdn.simpleicons.org/gimp/5C5543" width="40" style="margin-right:10px;"/>
+
+  <!-- Inkscape -->
   <img src="https://cdn.simpleicons.org/inkscape/000000" width="40"/>
 </p>
 
