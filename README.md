@@ -68,10 +68,13 @@
 <h3>Editor Tools:</h3>
 <p>
   <!-- VS Code -->
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" style="margin-right:10px;"/>
-  
+ <h3>Editor Tools:</h3>
+<p>
+  <!-- VS Code -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" style="margin-right:10px;"/>
+
   <!-- Visual Studio -->
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" width="40"/>
 </p>
 
 <h3>Design Software:</h3>
