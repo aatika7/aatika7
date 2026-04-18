@@ -65,9 +65,7 @@
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="40" style="margin-right:10px;"/>
   <img src="https://cdn.simpleicons.org/react/61DAFB" width="40"/>
 </p>
-<h3>Editor Tools:</h3>
-<p>
-  <!-- VS Code -->
+
  <h3>Editor Tools:</h3>
 <p>
   <!-- VS Code -->
