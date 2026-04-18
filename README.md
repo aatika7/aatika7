@@ -41,20 +41,22 @@
 <hr>
 <h4>Ready to take your business to the next level? Let's work together! Contact me at aatikaalia5017@gmail.com to discuss your project and how I can help</h4>
 <h4>Thank you for considering my services, and I look forward to hearing from you soon!</h4>
+
+
 <h3>Connect with me:</h3>
 <p>
-  <a href="https://www.linkedin.com/in/aatika-alia/"><img src="LINKEDIN_ICON_URL" width="40" /></a>
-  <a href="https://fb.com/aatika alia" ><img src="FACEBOOK_ICON_URL" width="40" /></a>
-  <a href="https://instagram.com/aatika alia"><img src="INSTAGRAM_ICON_URL" width="40" /></a>
-  <a href="https://www.behance.net/aatika alia"><img src="BEHANCE_ICON_URL" width="40" /></a>
+  <a href="https://www.linkedin.com/in/aatika-alia/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/></a>
+  <a href="https://fb.com/aatika alia" ><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/></a>
+  <a href="https://instagram.com/aatika alia"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40"/></a>
+  <a href="https://www.behance.net/aatika alia"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/behance/behance-original.svg" width="40"/></a>
 </p>
 
 <h3>Languages:</h3>
 <p>
-  <img src="C_SHARP_ICON_URL" width="40" />
-  <img src="CSS_ICON_URL" width="40" />
-  <img src="HTML_ICON_URL" width="40" />
-  <img src="JS_ICON_URL" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 </p>
 
    <h3 align="left">Libraries:</h3>
