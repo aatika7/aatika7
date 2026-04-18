@@ -77,7 +77,7 @@
 <h3>Design Software:</h3>
 <p>
   <!-- Photoshop -->
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" style="margin-right:10px;"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40"/>
 
   <!-- GIMP -->
   <img src="https://cdn.simpleicons.org/gimp/5C5543" width="40" style="margin-right:10px;"/>
