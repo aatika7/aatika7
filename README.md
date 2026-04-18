@@ -41,24 +41,22 @@
 <hr>
 <h4>Ready to take your business to the next level? Let's work together! Contact me at aatikaalia5017@gmail.com to discuss your project and how I can help</h4>
 <h4>Thank you for considering my services, and I look forward to hearing from you soon!</h4>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aatika-alia/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aatika alia" height="30" width="40" /></a>
-<a href="https://fb.com/aatika alia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aatika alia" height="30" width="40" /></a>
-<a href="https://instagram.com/aatika alia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aatika alia" height="30" width="40" /></a>
-<a href="https://www.behance.net/aatika alia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="aatika alia" height="30" width="40" /></a>
+<h3>Connect with me:</h3>
+<p>
+  <a href="https://www.linkedin.com/in/aatika-alia/"><img src="LINKEDIN_ICON_URL" width="40" /></a>
+  <a href="https://fb.com/aatika alia" ><img src="FACEBOOK_ICON_URL" width="40" /></a>
+  <a href="https://instagram.com/aatika alia"><img src="INSTAGRAM_ICON_URL" width="40" /></a>
+  <a href="https://www.behance.net/aatika alia"><img src="BEHANCE_ICON_URL" width="40" /></a>
 </p>
 
-<h3 align="left">Languages:</h3>
-<p align="left"> <a href="" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-   <a href= target="_blank" rel="noreferrer">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-   <a href="https:" target="_blank" rel="noreferrer"> 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-   
+<h3>Languages:</h3>
+<p>
+  <img src="C_SHARP_ICON_URL" width="40" />
+  <img src="CSS_ICON_URL" width="40" />
+  <img src="HTML_ICON_URL" width="40" />
+  <img src="JS_ICON_URL" width="40" />
+</p>
+
    <h3 align="left">Libraries:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
