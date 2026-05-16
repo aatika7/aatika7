@@ -9,20 +9,17 @@
 
 <h1>A lil'Git Abot me</h1>
   <hr>
-<h3>Self-taught and passionate C# Developer with hands-on experience creating efficient and scalable web applications using the .NET framework and C#. Skilled in object-oriented programming and strongly committed to delivering clean, maintainable code. </h3>
+<h3>"Bridging the gap between biotechnology and software engineering to build innovative solutions for healthcare and life sciences. With a strong foundation in biotech and growing expertise in software development, I am passionate about creating impactful technologies in bioinformatics, computational bioengineering, and healthcare software. Driven by problem-solving, continuous learning, and innovation, I aim to contribute to projects that improve lives through technology."</h3>
 
  <h3>"I've improved my skills as a front-end web developer. I've learned HTML, CSS, and JavaScript to design websites. Bringing Ideas to Life from Concept to Deployment, Creating Seamless User Experiences, and Specializing in Front-End Integration".</h3>
 
- <h3>Key Skills</h3>
-  <ul><li>C#</li>
-  <li>HTML, CSS, JavaScript</li>
-  <li>Bootstrap, Tailwind, React</li>
-  
-  <h3>Feel free to check out my projects and connect with me to discuss software development!</h3>
+ <h3>"Last but not the least, I was also a Freelance Graphic Designer. I'd done multiple projects such as designing social media posts, flyers, brochures. I'd designing on the basis of  Graphic Design's principles such as layout, color theory, typography."</h3>
+
+ <h3>Feel free to check out my projects and connect with me to discuss biotech software development!</h3>
 
  <h1>Description</h1>
 <hr>
-<h4> I'm excited to combine my skills to help others while monetizing my knowledge. My mission is to help startups and small businesses succeed by providing them with high-quality software engineering solutions and problem-solving expertise.</h4>
+<h4> I'm excited to combine my skills to help others while monetizing my knowledge. My mission is to help startups and small businesses succeed by providing them with high-quality biotech software engineering solutions and problem-solving expertise.</h4>
 
 
 <h1>Services</h1>
