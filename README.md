@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/aatika7/aatika7/main/a_wide_dark_biotech_themed_banner_linkedin_header.png)
+![logo](https://github.com/aatika7/aatika7/blob/main/a_wide_dark_biotech_themed_banner_linkedin_header.png)
    <center><h1>Hi 👋, I'm Aatika Alia</h1</center>
 <h3 align="center">A passionate biotech software developer from Pakistan.</h3>
 
