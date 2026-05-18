@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aatika7/aatika7/main/a_wide_dark_biotech_themed_banner_linkedin_header.png" alt="logo">
-</p>
+![logo](https://raw.githubusercontent.com/aatika7/aatika7/main/a_wide_dark_biotech_themed_banner_linkedin_header.png)
    <center><h1>Hi 👋, I'm Aatika Alia</h1</center>
 <h3 align="center">A passionate biotech software developer from Pakistan.</h3>
 
