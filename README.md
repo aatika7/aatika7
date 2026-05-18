@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/aatika7/aatika7/main/banner.png)
+![banner](https://raw.githubusercontent.com/aatika7/aatika7/main/biotech_software_engineer.png)
    <center><h1>Hi 👋, I'm Aatika Alia</h1</center>
 <h3 align="center">A passionate biotech software developer from Pakistan.</h3>
 
